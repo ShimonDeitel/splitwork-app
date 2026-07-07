@@ -1,0 +1,29 @@
+{
+  "identifier": "Splitwork",
+  "nonRenewingSubscriptions": [],
+  "products": [
+    {
+      "displayPrice": "3.99",
+      "familyShareable": false,
+      "internalID": "splitwork_pro",
+      "localizations": [
+        {
+          "description": "Saved crew templates and payout history export",
+          "displayName": "Splitwork Pro",
+          "locale": "en_US"
+        }
+      ],
+      "productID": "com.shimondeitel.splitwork.pro",
+      "referenceName": "Splitwork Pro",
+      "type": "NonConsumable"
+    }
+  ],
+  "settings": {
+    "_storeKitErrors": []
+  },
+  "subscriptionGroups": [],
+  "version": {
+    "major": 3,
+    "minor": 0
+  }
+}
